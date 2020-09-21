@@ -3,7 +3,7 @@
 
 ![KakaoTalk_20200921_190737772](https://user-images.githubusercontent.com/54584364/93771580-abed5200-fc58-11ea-90cb-ed30dff8a6ff.jpg)
 
-[실행 영상] (https://www.youtube.com/embed/9CgZFwSuNXo)
+[실행 영상](https://www.youtube.com/embed/9CgZFwSuNXo)
 
 케릭터 동작
 - Player 객체와 Enemy 객체를 생성하고 이미지를 불러와서 각 케릭터의 기본 이미지를 적용하였습니다
